@@ -10,3 +10,9 @@
 - Other Tools: Git, GitHub, Docker  
 
 **Projects:**  
+
+## 📫 Contact Me
+
+- Email: manasesdevivar@gmail.com
+- LinkedIn: https://www.linkedin.com/in/manasesdevivar/
+- Upwork: https://www.upwork.com/freelancers/manasesdevivar
